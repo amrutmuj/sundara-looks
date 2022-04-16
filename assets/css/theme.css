@@ -18435,7 +18435,7 @@ ul {
   transform: translateY(-50%);
 }
 
-.form-livedoc-control {
+.form-sundaradoc-control {
   border: 1px solid rgba(13, 175, 202, 0.2);
   border-radius: 1.25rem;
   color: #000;
@@ -18444,7 +18444,7 @@ ul {
   padding: .95rem .95rem;
 }
 
-.form-livedoc-control:focus {
+.form-sundaradoc-control:focus {
   color: #464558;
   font-weight: 700;
   background-color: rgba(13, 175, 202, 0.08);
